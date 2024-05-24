@@ -27,7 +27,7 @@ Application should perform below analysis and store the results for each analysi
 ### Project Folder Structure
 
 ```
-BCG Case Study - CarCrashAnalysis/
+BCG-CaseStudy-CarCrashAnalysis/
 ├── config/
 │   ├── config.yaml/
 ├── data/
