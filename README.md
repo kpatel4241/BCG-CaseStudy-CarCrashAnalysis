@@ -29,7 +29,7 @@ Application should perform below analysis and store the results for each analysi
 ```
 BCG-CaseStudy-CarCrashAnalysis/
 ├── config/
-│   ├── config.yaml/
+│   ├── config.yaml
 ├── data/
 │   ├── Charges_use.csv
 │   ├── Damages_use.csv
